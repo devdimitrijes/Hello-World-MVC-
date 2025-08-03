@@ -17,9 +17,29 @@ The project is created as an introduction to ASP.NET Core MVC architecture. Thro
 ## 🔧 How to Run the Application:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/HelloWorldMvc.git
+    git clone https://github.com/devdimitrijes/HelloWorldMvc.git
     ```
 2. Open the project in Visual Studio.
 3. Run the application using IIS Express.
 
 ## 📂 Project Structure:
+Controllers/
+HelloController.cs
+Views/
+Hello/
+Index.cshtml
+Home/
+Index.cshtml
+wwwroot/
+Program.cs
+
+
+## 💡 What I Learned:
+- Basics of ASP.NET Core MVC structure (Model-View-Controller pattern).
+- Understanding how Controllers return Views.
+- Integrating HTML with C# using Razor (.cshtml) files.
+- Creating simple links between pages using Tag Helpers.
+
+---
+
+This project is a simple practice app, made for learning MVC fundamentals.
